@@ -2,7 +2,7 @@
 
 This repository provides example code to reproduce key analyses and figures presented in our manuscript "The Boston Children’s Hospital Sleep Corpus: A collection of 15,695 Annotated Pediatric Polysomnograms" describing the **BCH Sleep Corpus**, a large-scale, annotated pediatric polysomnography dataset.
 
-📄 **Project page:** [https://bdsp.io](https://bdsp.io)  
+📄 **Project page:** ([https://bdsp.io/content/l8c86mgywuneuy74ae71/](https://bdsp.io/content/l8c86mgywuneuy74ae71/))  
 📊 **Data access & download instructions:** Available on the project page.
 
 ---
